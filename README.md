@@ -1,8 +1,8 @@
-#optimisedTransactionProcessing
+# optimisedTransactionProcessing
 
 An implementation of the SIGMOD 2015 contest. A demonstration of its performance can be found in readme.pdf
 
-##SIGMOD 2015 Task Overview
+## SIGMOD 2015 Task Overview
 
 The ACID principle, mandating atomicity, consistency, isolation and durability is one of the cornerstones of relational database management systems. In order to achieve the third principle, isolation, concurrent reads and writes must be handled carefully.
 
